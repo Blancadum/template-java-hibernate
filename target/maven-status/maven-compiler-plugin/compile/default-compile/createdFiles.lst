@@ -1,0 +1,4 @@
+cat/exemple/util/HibernateUtil.class
+cat/exemple/model/Producte.class
+cat/exemple/Application.class
+cat/exemple/dao/ProducteDAO.class
